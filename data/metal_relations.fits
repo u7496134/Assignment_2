@@ -1,0 +1,15 @@
+--2026-09-02 13:55:53--  https://github.com/svenbuder/astro_comp_assignment02_2026/blob/main/data/nihao_uhd_simulation_g8.26e11_xyz_positions_and_oxygen_ao.fits
+Resolving github.com (github.com)... 4.237.22.38
+Connecting to github.com (github.com)|4.237.22.38|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘nihao_uhd_simulation_g8.26e11_xyz_positions_and_oxygen_ao.fits’
+
+     0K .......... .......... .......... .......... .......... 1.69M
+    50K .......... .......... .......... .......... .......... 7.12M
+   100K .......... .......... .......... .......... .......... 16.0M
+   150K .......... .......... .......... .......... .......... 5.05M
+   200K .......... ..........                                  2.63M=0.06s
+
+2026-09-02 13:55:54 (3.84 MB/s) - ‘nihao_uhd_simulation_g8.26e11_xyz_positions_and_oxygen_ao.fits’ saved [226193]
+
